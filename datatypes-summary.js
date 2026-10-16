@@ -33,3 +33,5 @@ const myFunc = function (){
 console.log(typeof myFunc) //function
 console.log(typeof scoreValue) //number
 console.log(typeof myObj) //object
+
+
